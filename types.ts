@@ -22,8 +22,3 @@ export type socialsType = {
   icon: string;
   path: string;
 };
-
-export type headingType = {
-  tag?: string;
-  text: string;
-};
